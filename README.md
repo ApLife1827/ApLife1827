@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ApLife1827
+- 👋 Hi, I’m @Avdhoot Patil
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently pursuing B.Tech CSE
 - 📫 How to reach me avdhootpatil2016@gmail.com
